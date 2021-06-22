@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ddit.go.kr.HomeController&apos; to &apos;DownloadController&apos;&#x0D;&#x0A;- Original project: &apos;ddit&apos;&#x0D;&#x0A;- Original element: &apos;ddit.go.kr.HomeController&apos;&#x0D;&#x0A;- Renamed element: &apos;ddit.go.kr.DownloadController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HomeController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;ddit.go.kr{HomeController.java[HomeController" matchStrategy="1" name="DownloadController" qualified="false" references="true" similarDeclarations="false" stamp="1623999710338" textual="false" version="1.0"/>
+</session>

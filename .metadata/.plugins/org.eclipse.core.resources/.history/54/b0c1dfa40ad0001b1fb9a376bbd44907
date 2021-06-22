@@ -1,0 +1,5 @@
+package com.psw.myapp.utils;
+
+public class DownloadView {
+
+}

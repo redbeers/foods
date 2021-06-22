@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<section class="blog-details spad">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-lg-8 order-lg-2 order-1">
+                    <div class="blog__details">
+                        <div class="blog__details__large">
+                            <img src="./resources/img/blog/details/blog-large.jpg" alt="">
+                            <span>Fuel</span>
+                        </div>
+                        <div class="blog__details__text">
+                            <p>Keeping fit during your university years may not be at the front of your mind, but by
+                                maintaining a healthy body, you’re going to see some positive side effects spilling into
+                                the rest of your uni life, from having better concentration to having more energy to
+                                party. </p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+</body>
+</html>

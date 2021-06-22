@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+
+
+<body>
+
+
+    <!-- Blog Hero Begin -->
+    <section class="breadcrumb-option blog-hero set-bg" data-setbg="./resources/img/breadcrumb.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="blog__hero__text">
+                        <h2>Nine Ways You Can Keep Fit At University</h2>
+                        <ul>
+                            <li>By <span>Grace Carter</span></li>
+                            <li>November 7, 2019</li>
+                            <li>08 Comments</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Blog Hero End -->
+
+    <!-- Blog Details Section Begin -->
+    <section class="blog-details spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 order-lg-1 order-2">
+                    <div class="blog__sidebar">
+                        
+                        <div class="blog__sidebar__categories">
+                            <h4>Categories</h4>
+                            <ul>
+                                <li><a href="#">All</a></li>
+                                <li><a href="#">Fuel (20)</a></li>
+                                <li><a href="#">Sweat (5)</a></li>
+                                <li><a href="#">Play (9)</a></li>
+                                <li><a href="#">Live (10)</a></li>
+                            </ul>
+                        </div>
+                        
+                        
+                        <div class="blog__sidebar__comment" style="overflow:scroll; height: auto;">
+                            <h4>Comment</h4>
+                            <div class="classes__sidebar__comment">
+                                <div class="classes__sidebar__comment__pic">
+                                    <img src="./resources/img/classes-details/comment-1.png" alt="">
+                                    <div class="classes__sidebar__comment__rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star-half-o"></i>
+                                    </div>
+                                </div>
+                                <div class="classes__sidebar__comment__text">
+                                    <span>04 Mar 2018</span>
+                                    <h6>Brandon Kelley</h6>
+                                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
+                                        adipisci velit,</p>
+                                </div>
+                            </div>
+                            <div class="classes__sidebar__comment">
+                                <div class="classes__sidebar__comment__pic">
+                                    <img src="./resources/img/classes-details/comment-1.png" alt="">
+                                    <div class="classes__sidebar__comment__rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star-half-o"></i>
+                                    </div>
+                                </div>
+                                <div class="classes__sidebar__comment__text">
+                                    <span>04 Mar 2018</span>
+                                    <h6>Brandon Kelley</h6>
+                                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
+                                        adipisci velit,</p>
+                                </div>
+                            </div>
+                            <div class="classes__sidebar__comment">
+                                <div class="classes__sidebar__comment__pic">
+                                    <img src="./resources/img/classes-details/comment-1.png" alt="">
+                                    <div class="classes__sidebar__comment__rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star-half-o"></i>
+                                    </div>
+                                </div>
+                                <div class="classes__sidebar__comment__text">
+                                    <span>04 Mar 2018</span>
+                                    <h6>Brandon Kelley</h6>
+                                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
+                                        adipisci velit,</p>
+                                </div>
+                            </div>
+                            <div class="classes__sidebar__comment">
+                                <div class="classes__sidebar__comment__pic">
+                                    <img src="./resources/img/classes-details/comment-1.png" alt="">
+                                    <div class="classes__sidebar__comment__rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star-half-o"></i>
+                                    </div>
+                                </div>
+                                <div class="classes__sidebar__comment__text">
+                                    <span>04 Mar 2018</span>
+                                    <h6>Brandon Kelley</h6>
+                                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
+                                        adipisci velit,</p>
+                                </div>
+                            </div>
+                            <div class="classes__sidebar__comment">
+                                <div class="classes__sidebar__comment__pic">
+                                    <img src="./resources/img/classes-details/comment-2.png" alt="">
+                                    <div class="classes__sidebar__comment__rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star-half-o"></i>
+                                    </div>
+                                </div>
+                                <div class="classes__sidebar__comment__text">
+                                    <span>04 Mar 2018</span>
+                                    <h6>Christina Kelley</h6>
+                                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8 order-lg-2 order-1">
+                    <div class="blog__details">
+                        <div class="blog__details__large">
+                            <img src="./resources/img/blog/details/blog-large.jpg" alt="">
+                            <span>Fuel</span>
+                        </div>
+                        <div class="blog__details__text">
+                            <p>Keeping fit during your university years may not be at the front of your mind, but by
+                                maintaining a healthy body, youâre going to see some positive side effects spilling into
+                                the rest of your uni life, from having better concentration to having more energy to
+                                party. </p>
+                        </div>
+                        <div class="blog__details__quote">
+                            <p>This is my second time completing a 200 hr TTC from Zogin and I loved the experiences
+                                even more</p>
+                        </div>
+                        <div class="blog__details__pic">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <img src="./resources/img/blog/details/bd-1.jpg" alt="">
+                                </div>
+                                <div class="col-lg-6 col-md-6">
+                                    <img src="./resources/img/blog/details/bd-2.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog__details__desc">
+                            <h4>The Secret to improving</h4>
+                            <p>Keeping fit during your university years may not be at the front of your mind, but by
+                                maintaining a healthy body, youâre going to see some positive side effects spilling into
+                                the rest of your uni life, from having better concentration to having more energy to
+                                party.</p>
+                            <p>Seriously, skip a session and get some rest. There will be some days when taking a nap
+                                will have way more benefit to you than putting in a hard session and feeling exhausted.
+                                Exercise is supposed to energise and inspire.</p>
+                        </div>
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Blog Details Section End -->
+
+    <!-- Leave Comment Begin -->
+    <div class="leave-comment spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="leave__comment__text">
+                        <h2>Leave A Comment</h2>
+                        <form action="#">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <input type="text" placeholder="Name*">
+                                </div>
+                                <div class="col-lg-6 col-md-6">
+                                    <input type="text" placeholder="Email*">
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="leave__comment__rating">
+                                        <h5>Your Rating:</h5>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 text-center">
+                                    <textarea placeholder="Your Comment"></textarea>
+                                    <button type="submit" class="site-btn">Submit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Leave Comment End -->
+
+
+
+    <!-- Js Plugins -->
+    <script src="./resources/js/jquery-3.3.1.min.js"></script>
+    <script src="./resources/js/bootstrap.min.js"></script>
+    <script src="./resources/js/jquery.nice-select.min.js"></script>
+    <script src="./resources/js/jquery.barfiller.js"></script>
+    <script src="./resources/js/jquery.slicknav.js"></script>
+    <script src="./resources/js/owl.carousel.min.js"></script>
+    <script src="./resources/js/main.js"></script>
+</body>
+
+</html>

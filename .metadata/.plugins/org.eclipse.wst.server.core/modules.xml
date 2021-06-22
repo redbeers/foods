@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:profit" serverId="apache-tomcat-8.5.37 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ddit" serverId="apache-tomcat-8.5.37 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:springddit" serverId="apache-tomcat-8.5.37 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:FileUpAndDownload" serverId="apache-tomcat-8.5.37 at localhost"/>
+</modules>

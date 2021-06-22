@@ -1,0 +1,63 @@
+package com.spring.profit.mypage;
+
+import java.util.Locale;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+/**
+ * 
+ * Handles requests for the application home page.
+ */
+@Controller
+public class MypageController {
+	
+	private static final Logger logger = LoggerFactory.getLogger(MypageController.class);
+	
+	
+	/**
+	 * Simply selects the home view to render by returning its name.
+	 */
+	@RequestMapping(value = "myinfo", method = RequestMethod.GET)
+	public String myinfo(Locale locale, Model model) {
+		
+		return "mypage/myinfo";
+	}
+	
+	@RequestMapping(value = "bookmark", method = RequestMethod.GET)
+	public String bookmark(Locale locale, Model model) {
+		
+		return "mypage/bookmark";
+	}
+	
+	@RequestMapping(value = "trainerApply", method = RequestMethod.GET)
+	public String trainerApply(Locale locale, Model model) {
+		
+		return "mypage/trainerApply";
+	}
+	
+	@RequestMapping(value = "trainerInfo", method = RequestMethod.GET)
+	public String trainerInfo(Locale locale, Model model) {
+		
+		return "mypage/trainerInfo";
+	}
+	
+	@RequestMapping(value = "listenList", method = RequestMethod.GET)
+	public String listenList(Locale locale, Model model) {
+		
+		return "mypage/listenList";
+	}
+	
+	@RequestMapping(value = "teachList", method = RequestMethod.GET)
+	public String teachList(Locale locale, Model model) {
+		
+		return "mypage/teachList";
+	}
+
+
+	
+}
