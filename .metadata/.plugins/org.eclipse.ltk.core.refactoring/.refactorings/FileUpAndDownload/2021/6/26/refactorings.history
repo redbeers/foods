@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;FileUpAndDownload/src/aaappp.exerd&apos; to &apos;01_empdet.exerd&apos;" description="Rename resource &apos;aaappp.exerd&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/aaappp.exerd" name="01_empdet.exerd" stamp="1624277256679" updateReferences="true"/>
-</session>
